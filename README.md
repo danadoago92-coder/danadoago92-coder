@@ -1,27 +1,20 @@
 # Dana
 
-I build practical software with **Python, C++, Go, and web technologies**.
+I'm a developer learning and building with **Python, C++, and full-stack web technologies**.
 
-Most of my work starts with a real problem: understand it, reduce it to the essentials, and ship something that is useful outside my editor. I care about clear code, honest documentation, and systems that are easier to operate than they are to explain.
+I enjoy understanding how software works beneath the surface, solving practical problems, and turning small ideas into complete, useful projects. I care about clear code, honest documentation, and steady progress.
 
-## What I'm building
-
-### [T2HASH-CORE](https://github.com/danadoago92-coder/T2HASH-CORE)
-
-A lightweight, multi-layer network tunnel written in Go, with a web-based control panel. It explores encrypted transport, traffic obfuscation, automatic reconnection, failover, and simpler server operations.
-
-`Go` · `Linux` · `Networking` · `Web UI`
-
-## What I work with
+## What I'm focused on
 
 - **Python** for automation, tools, and backend development
-- **C++** for systems thinking, performance, and problem-solving
-- **Go** for network services and deployable server software
-- **Full-stack web development** for turning backend ideas into usable products
+- **C++** for problem-solving, performance, and core programming
+- **Full-stack development** for building complete web experiences
 
-## Right now
+## Building in public
 
-I'm improving T2HASH-CORE, strengthening my systems and networking knowledge, and building a smaller set of projects that I can explain, maintain, and stand behind.
+This profile is new. The projects I feature here will be work that I have built, documented, and can explain—from the first decision to the final result.
+
+Right now, I'm learning deeply and working toward a small set of original projects worth sharing.
 
 I'm open to thoughtful feedback, collaboration, and junior developer opportunities.
 
