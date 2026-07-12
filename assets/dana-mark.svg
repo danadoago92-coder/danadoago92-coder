@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Dana developer mark</title>
+  <desc id="desc">A geometric D formed with code brackets and a rising spark.</desc>
+  <defs>
+    <linearGradient id="mark" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="0.55" stop-color="#2ea8ff"/>
+      <stop offset="1" stop-color="#19d3e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#071126"/>
+  <path d="M154 116h104c93 0 158 57 158 140s-65 140-158 140H154v-70h104c52 0 86-27 86-70s-34-70-86-70H224v58l-70-70z" fill="url(#mark)"/>
+  <path d="m151 213-43 43 43 43" fill="none" stroke="#7c5cff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M204 342c39-22 73-50 99-86" fill="none" stroke="url(#mark)" stroke-width="22" stroke-linecap="round"/>
+  <path d="m310 218 9 20 20 9-20 9-9 20-9-20-20-9 20-9z" fill="#19d3e6"/>
+</svg>
