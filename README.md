@@ -1,76 +1,32 @@
-<div align="center">
-  <img src="./assets/dana-mark.svg" width="180" alt="Dana personal mark" />
+# Dana
 
-# Hi, I'm Dana — a Python, C++ & Full-Stack Developer.
+I build practical software with **Python, C++, Go, and web technologies**.
 
-### I turn ideas into software—thoughtfully, patiently, and one honest commit at a time.
+Most of my work starts with a real problem: understand it, reduce it to the essentials, and ship something that is useful outside my editor. I care about clear code, honest documentation, and systems that are easier to operate than they are to explain.
 
-[![Email](https://img.shields.io/badge/Say_hello-Email-19D3E6?style=flat-square&logo=gmail&logoColor=white)](mailto:danadoago92@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow-@danadoago92--coder-7C5CFC?style=flat-square&logo=github&logoColor=white)](https://github.com/danadoago92-coder)
+## What I'm building
 
-</div>
+### [T2HASH-CORE](https://github.com/danadoago92-coder/T2HASH-CORE)
 
----
+A lightweight, multi-layer network tunnel written in Go, with a web-based control panel. It explores encrypted transport, traffic obfuscation, automatic reconnection, failover, and simpler server operations.
 
-## A little about me
+`Go` · `Linux` · `Networking` · `Web UI`
 
-I'm a developer working with **Python**, **C++**, and **full-stack web technologies**. I enjoy understanding how things work beneath the surface, solving practical problems, and turning an idea into a complete product—from the logic behind it to the experience people see.
+## What I work with
 
-I don't pretend to know everything. What matters to me is learning well, finishing what I start, and making each project better than the last. I like the moment when a confusing problem becomes clear, when an idea finally works, and when something I built becomes useful to another person.
+- **Python** for automation, tools, and backend development
+- **C++** for systems thinking, performance, and problem-solving
+- **Go** for network services and deployable server software
+- **Full-stack web development** for turning backend ideas into usable products
 
-```text
-An idea starts quietly,
-then courage gives it form;
-I build through every question,
-and learn through every storm.
-```
+## Right now
 
-## What I'm doing now
+I'm improving T2HASH-CORE, strengthening my systems and networking knowledge, and building a smaller set of projects that I can explain, maintain, and stand behind.
 
-🐍 Building practical tools and backends with Python  
-⚙️ Strengthening problem-solving and core programming with C++  
-🌐 Creating complete web experiences across frontend and backend  
-🛠️ Practicing clean code, documentation, and real Git workflows  
-🤝 Open to helpful feedback, collaboration, and junior opportunities
+I'm open to thoughtful feedback, collaboration, and junior developer opportunities.
 
-## Languages & development
-
-<p>
-  <img src="https://img.shields.io/badge/Python-1C2536?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-1C2536?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
-  <img src="https://img.shields.io/badge/Full--Stack-1C2536?style=for-the-badge&logo=visualstudiocode&logoColor=19D3E6" alt="Full-Stack Development" />
-</p>
-
-My focus is not only on collecting technologies. I want to understand the full path from a problem to a reliable solution: planning, coding, testing, documenting, and improving the result.
-
-## The way I work
-
-- **Curious:** I ask why, not only how.
-- **Persistent:** Getting stuck is part of the process—not the end of it.
-- **Thoughtful:** Clear work and clear communication both matter.
-- **Honest:** I show real progress instead of decorating the page with skills I cannot prove yet.
-
-## Work worth opening
-
-This space is intentionally waiting for real projects. Each featured repository will include the problem, the decisions I made, how to run it, and what I learned.
-
-<!-- When projects are ready, replace this comment with:
-### Project name
-One clear sentence: what it does and who it helps.
-`technology` · `technology` · [Repository](URL) · [Live demo](URL)
--->
-
-## Let's talk
-
-If you have a learning opportunity, a junior role, a small project, or simply useful advice, I would be happy to hear from you.
-
-📬 **Email:** [danadoago92@gmail.com](mailto:danadoago92@gmail.com)  
-🐙 **GitHub:** [danadoago92-coder](https://github.com/danadoago92-coder)
+[Email me](mailto:danadoago92@gmail.com)
 
 ---
 
-<div align="center">
-
-_Still learning. Still building. Becoming better with every commit._
-
-</div>
+*Build quietly. Let the work speak.*
